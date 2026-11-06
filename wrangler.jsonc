@@ -1,0 +1,8 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "diaconos-prototipo-tabernaculo",
+  "compatibility_date": "2026-11-06",
+  "workers_dev": true,
+  "assets": { "directory": "." }
+}
+
